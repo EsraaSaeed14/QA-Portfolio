@@ -21,6 +21,6 @@ This project demonstrates manual testing practices using the SauceDemo e-commerc
 
 ## Project Status
 
-In Progress – Test cases are being prepared and will be executed against the demo application.
+**Login Testing:** Completed — 8/8 test cases passed. Execution results are documented in the Test Execution Report.
 
 **Note:** This is an independent portfolio practice project, not a commercial client engagement.
