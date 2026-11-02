@@ -21,13 +21,28 @@ Currently expanding my test automation skills through hands-on practice with Pla
 
 ## Portfolio Projects
 
-This portfolio will contain practical QA samples demonstrating:
+### 1. SauceDemo — Manual Testing
 
-1. Manual test scenarios and test cases
-2. Bug reports with reproduction steps and expected versus actual results
-3. API testing examples using Postman
-4. SQL database validation examples
-5. Playwright and TypeScript automation practice
+Hands-on manual functional testing of the SauceDemo e-commerce demo application.
+
+**Login Module: Completed**
+- 8 test cases executed
+- 8 passed, 0 failed
+- Scenarios include valid and invalid login, required-field validation, locked-out users, and password masking
+
+**Project Deliverables:**
+- [Project Overview](Manual-Testing/README.md)
+- [Login Test Cases](Manual-Testing/Login-Test-Cases.md)
+- [Test Execution Report](Manual-Testing/Test-Execution-Report.md)
+
+**Other Modules:** Product listing, shopping cart, and checkout — planned for future testing.
+
+### Planned Portfolio Samples
+
+- Bug reports with reproduction steps
+- API testing examples using Postman
+- SQL data validation examples
+- Playwright and TypeScript automation practice
 
 *All portfolio samples are created for demonstration or learning purposes and do not contain confidential employer or client information.*
 
